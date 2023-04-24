@@ -1,4 +1,8 @@
-![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
 
   <h2 align="center"> Phùng Mạnh Quảng, Hello World! 👋 </h2>
   I am currently working as mid-level engineer for product software company.
